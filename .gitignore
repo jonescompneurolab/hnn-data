@@ -1,0 +1,34 @@
+# HNN-core build
+dpl.txt
+hnn_core/mod/x86_64/
+
+# Distribution / packaging
+.Python
+dist/
+*.egg*
+build
+coverage
+*.xml
+.venv
+
+# Sphinx documentation
+doc/_build/**
+pip-log.txt
+.coverage
+tags
+cover
+
+# Pycharm
+.idea/
+
+*.pyc
+
+.cache
+.pytest_cache
+.ipynb_checkpoints
+.DS_Store
+.vscode/
+
+__pycache__
+
+*.log
