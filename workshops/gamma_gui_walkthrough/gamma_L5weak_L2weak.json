@@ -3966,7 +3966,7 @@
             "conn_seed": 3,
             "dynamics": {
                 "tstart": 0,
-                "tstop": 250.0,
+                "tstop": 300.0,
                 "rate_constant": {
                     "L2_basket": 1,
                     "L2_pyramidal": 140.0,
